@@ -1,2 +1,2 @@
 # ueditor
-很详细的SpringBoot整合UEditor教程
+SpringBoot 整合UEditor 
